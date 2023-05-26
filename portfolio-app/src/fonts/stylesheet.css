@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Sora Bold";
+  src: local("Sora Bold"), local("Sora-Bold"),
+    url("Sora/Sora-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sora Medium";
+  src: local("Sora Medium"), local("Sora-Medium"),
+    url("Sora/Sora-Medium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sora Regular";
+  src: local("Sora Regular"), local("Sora-Regular"),
+    url("Sora/Sora-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
